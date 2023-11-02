@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed0e9597.css",
-    "main.js": "/static/js/main.bbdf17d7.js",
-    "index.html": "/index.html",
-    "main.ed0e9597.css.map": "/static/css/main.ed0e9597.css.map",
-    "main.bbdf17d7.js.map": "/static/js/main.bbdf17d7.js.map"
+    "main.css": "/colorpicker/static/css/main.ed0e9597.css",
+    "main.js": "/colorpicker/static/js/main.bbdf17d7.js",
+    "index.html": "/colorpicker/index.html",
+    "main.ed0e9597.css.map": "/colorpicker/static/css/main.ed0e9597.css.map",
+    "main.bbdf17d7.js.map": "/colorpicker/static/js/main.bbdf17d7.js.map"
   },
   "entrypoints": [
     "static/css/main.ed0e9597.css",
